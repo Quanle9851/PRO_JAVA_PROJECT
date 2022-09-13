@@ -1,0 +1,5 @@
+258,ca rot,4.0,rau cu,2,2021/09/12
+447,sua chua,4.0,do an dong goi,2,2021/07/25
+365,suc xich,4.0,do an dong goi,3,2020/11/23
+234,hanh la,2.0,rau cu,3,2020/05/12
+116,banh my,7.0,do an,2,2019/05/23
